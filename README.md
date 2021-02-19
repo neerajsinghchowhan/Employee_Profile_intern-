@@ -3,10 +3,16 @@
 Use comand 
 
     py -3 -m venv venv
+    
+    
+    ////////////////
    
     python2 -m virtualenv venv
     
-    pip install Flask 
+    //////////////////////
+    
+    pip install Flask
+    
  //////////to install Flask
     
  After installing open the cmd in admin mode and go the file location that you create
